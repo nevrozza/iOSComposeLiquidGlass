@@ -43,3 +43,8 @@ When the button is resized for animate interactions, the glass background may be
 > [!WARNING]
 > Removing the shadow slightly deviates from the native LiquidGlass appearance. 
 > Additionally, without the shadow the button may be hard to see on a white background, so it is recommended to use a white background with a subtle tint or shade to maintain visibility.
+
+## Result
+<p align="center">
+<img width="200" src="https://github.com/user-attachments/assets/07fed02d-461d-4157-a61e-1eaede39c9b9"/>
+</p>
