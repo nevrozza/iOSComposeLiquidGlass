@@ -4,6 +4,10 @@ This project demonstrates how to use **UIKit Interop** to integrate **LiquidGlas
 
 > Another question is how you’re going to combine LiquidGlass and Material You…
 
+## Samples
+- [ ] Button
+- [ ] Switch
+- [ ] BottomBar
 
 ## Known Issues and Workarounds
 
